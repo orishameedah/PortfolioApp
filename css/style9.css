@@ -355,9 +355,9 @@ select {
     text-align: center;
 }
 .home .intro img {
-    height: 200px;
+    height: 300px;
     width: 200px;
-    border-radius: 50%;
+    border-radius: 30%;
     display: inline-block;
     border: 8px solid #ffffff;
 }
