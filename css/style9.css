@@ -808,7 +808,7 @@ select {
 .portfolio .portfolio-item:hover .portfolio-info .icon {
     height: 40px;
     width: 40px;
-    background-color: #ffffff;
+    background-color: #bda8a8;
     text-align: center;
     border-radius: 50%;
     position: absolute;
